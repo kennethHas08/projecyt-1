@@ -1,4 +1,4 @@
-# projecyt-1
+# project-1
 codepath 
  Project 1 - shoping list / LIST
 
